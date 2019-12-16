@@ -1,0 +1,4 @@
+name: ServerBed
+version: ${project.version}
+main: me.bank.serverbed.serverbed.ServerBed
+api-version: 1.13
