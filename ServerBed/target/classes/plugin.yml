@@ -1,4 +1,0 @@
-name: ServerBed
-version: 1.0-SNAPSHOT
-main: me.bank.serverbed.serverbed.ServerBed
-api-version: 1.13
